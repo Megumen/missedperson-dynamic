@@ -1,0 +1,2 @@
+# missedperson-dynamic
+This visualization was concerned with answering the question of how the amount of missing people change in years.The data was taken from the official registry. The visualization helps us understand the dynamic of phenomena and analyze the events that can have impact on it.For example in 2014 in Ukraine started a war, so we can see a big grow of the missing people in that year.
